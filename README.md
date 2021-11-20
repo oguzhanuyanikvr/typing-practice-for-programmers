@@ -1,5 +1,5 @@
 # Typing Practice for Programmers
 
-<strong>Codepen Link: </strong>https://codepen.io/oguzuyanik/full/MWogyNJ
+<strong>Codepen Link: </strong>https://codepen.io/devalopercom/pen/MWvRWGP
 
-<a href="https://codepen.io/oguzuyanik/full/MWogyNJ" rel="typing practice for programmers" target="_blank">![Typing Practice For Programmers](https://raw.githubusercontent.com/oguzhanuyanik-fd/typing-practice-for-programmers/main/screenshot.png)</a>
+<a href="https://codepen.io/devalopercom/pen/MWvRWGP" rel="typing practice for programmers" target="_blank">![Typing Practice For Programmers](https://github.com/devalopercom/typing-practice-for-programmers/blob/main/screenshot.png?raw=true)</a>
